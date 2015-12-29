@@ -3,27 +3,27 @@
 	"pessoas" : 
 	[
 		{
-			"nome" : "Gabriel Guedes"
-			"idade" : 22
-			"sexo" : "M"
+			"nome" : "Gabriel Guedes",
+			"idade" : 22,
+			"sexo" : "M",
 			"profissao" : "estudante"
 		},
 		{
-			"nome" : "Glauber Guedes"
-			"idade" : 15
-			"sexo" : "M"
+			"nome" : "Glauber Guedes",
+			"idade" : 15,
+			"sexo" : "M",
 			"profissao" : "estudante"
 		},
 		{
-			"nome" : "Pedro"
-			"idade" : 21
-			"sexo" : "M"
+			"nome" : "Pedro",
+			"idade" : 21,
+			"sexo" : "M",
 			"profissao" : "estudante"
 		},
 		{
-			"nome" : "Jose"
-			"idade" : 21
-			"sexo" : "M"
+			"nome" : "Jose",
+			"idade" : 21,
+			"sexo" : "M",
 			"profissao" : "estudante"
 		}		
 		

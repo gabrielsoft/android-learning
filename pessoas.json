@@ -1,4 +1,5 @@
-
+{
+	
 	"pessoas" : 
 	[
 		{
@@ -26,3 +27,6 @@
 			"profissao" : "estudante"
 		}
 	]
+
+	
+}

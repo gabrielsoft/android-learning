@@ -15,6 +15,20 @@
 			"sexo" : "M",
 			"profissao" : "estudante",
 			"imagem" : "http://novatec.com.br/figuras/capas/9788575223505.gif"
+		},
+		{
+			"nome" : "Pedro",
+			"idade" : 21,
+			"sexo" : "M",
+			"profissao" : "estudante",
+			"imagem" : "http://novatec.com.br/figuras/capas/9788575223505.gif"
+		},
+		{
+			"nome" : "Iuri",
+			"idade" : 21,
+			"sexo" : "M",
+			"profissao" : "estudante",
+			"imagem" : "http://novatec.com.br/figuras/capas/9788575223505.gif"
 		}
 		
 		
